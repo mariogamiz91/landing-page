@@ -148,6 +148,7 @@ a{
     gap: 2rem;
     
     
+    
 }
 
 .quote{
@@ -161,4 +162,72 @@ a{
     display: flex;
     justify-content: flex-end;
     
+}
+/*END THIRD WRAP*/
+
+/*fourh section*/
+
+.fourth-wrap{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 6rem 4rem;
+}
+
+.label{
+    background-color: #3882F6 ;
+    width: 900px;
+    padding: 3rem 8rem;
+    border-radius: .5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-label{
+    color: #F9FAF8;
+    flex: 1 1 0;
+    
+}
+.right-label{
+    flex: 1 1 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.upper-text{
+    font-weight: bold;
+}
+.lower-text{
+    font-size: 1rem;
+}
+
+.button-bottom{
+    background-color: #3882F6;
+    text-decoration: none;
+    border-radius: .5rem;
+    border:solid;
+    border-color: #F9FAF8;
+    border-width: 2px;
+   
+}
+
+.button-bottom a{
+    color: #F9FAF8;
+    padding: 1rem 2rem;
+   
+}
+
+/*FOOTER*/
+
+
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-text{
+    color: #F9FAF8;
+    padding: 3rem ;
 }
