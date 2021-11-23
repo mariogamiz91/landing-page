@@ -229,5 +229,8 @@ padding: 6rem 4rem;
 
 .footer-text{
     color: #F9FAF8;
-    padding: 3rem ;
+    padding: 3rem 0rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
